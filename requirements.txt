@@ -1,0 +1,8 @@
+kivy.app
+kivy.uix.floatlayout
+kivy.uix.button
+kivy.uix.label
+kivy.uix.spinner
+kivy.uix.popup
+yt_dlp
+os
